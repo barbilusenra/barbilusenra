@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/barbara-lucia-senra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
-<h3 align='left'>My last Proyect:</h3>
+<h3 align='left'>Rivelle proyect:</h3>
 <p float="left">
   <img src="./assets/rivelle1.png" width="300" />
   <img src="./assets/rivelle2.png" width="300" /> 
