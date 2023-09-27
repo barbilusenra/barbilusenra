@@ -23,12 +23,23 @@
   <img src="./assets/rivelle2.png" width="300" /> 
   <img src="./assets/rivelle3.png" width="300" />
   <img src="./assets/rivelle4.png" width="300" />
-   <img src="./assets/rivelle5.png" width="300" />
+  <img src="./assets/rivelle5.png" width="300" />
+ <img src="./assets/rivelle6.png" width="300" />
 </p>
 <a href="https://www.youtube.com/watch?v=6uzxqtKD-oY" target="_blank">
   <img src="./assets/youtube.svg" alt="View video in YouTube" width="40" />
 </a>
-
+<h4 align="left">🔗 <a href="https://rivelle.netlify.app/">View the Rivelle Project 👠</a></h4>
+<h3 align='left'>Soul Music proyect:</h3>
+<p float="left">
+  <img src="./assets/soul1.png" width="300" />
+  <img src="./assets/soul2.png" width="300" /> 
+  <img src="./assets/soul3.png" width="300" />
+  <img src="./assets/soul4.png" width="300" />
+  <img src="./assets/soul5.png" width="300" />
+ <img src="./assets/soul6.png" width="300" />
+</p>
+<h4 align="left">🔗 <a href="https://soul-music-pf.netlify.app/home">View the Soul Music Project Live 🎵</a></h4>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
