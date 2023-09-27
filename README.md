@@ -19,11 +19,11 @@
 
 <h3 align='left'>My last Proyect:</h3>
 <p float="left">
-  <img src="./assets/rivelle1.png" width="100" />
-  <img src="./assets/rivelle2.png" width="100" /> 
-  <img src="./assets/rivelle3.png" width="100" />
-  <img src="./assets/rivelle4.png" width="100" />
-   <img src="./assets/rivelle5.png" width="100" />
+  <img src="./assets/rivelle1.png" width="300" />
+  <img src="./assets/rivelle2.png" width="300" /> 
+  <img src="./assets/rivelle3.png" width="300" />
+  <img src="./assets/rivelle4.png" width="300" />
+   <img src="./assets/rivelle5.png" width="300" />
 </p>
 <a href="https://www.youtube.com/watch?v=6uzxqtKD-oY" target="_blank">
   <img src="./assets/youtube.svg" alt="View video in YouTube" width="40" />
